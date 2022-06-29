@@ -68,20 +68,41 @@
 
 ## Decision Tree
 
+* 53 Frauds walk away: 29 clients get angry for stopping transactions.
+
 ![png](images/decision_tree_base.png)
+
+* 54 Frauds walk away: 30 clients get angry for stopping transactions.
+
 ![png](images/decision_tree_balanced.png)
+
+* 13 Frauds walk away: 1939 clients get angry for stopping transactions.
+
 ![png](images/decision_tree_balanced_maxdepth.png)
 
 
 ## Random Forest
 
+* 64 Frauds walk away: 6 clients get angry for stopping transactions.
+
 ![png](images/random_forest_base.png)
+
+* 67 Frauds walk away: 10 clients get angry for stopping transactions.
+
 ![png](images/random_forest1.png)
+
+* 64 Frauds walk away: 8 clients get angry for stopping transactions.
+
 ![png](images/random_forest2.png)
+
+* 34 Frauds walk away: 66 clients get angry for stopping transactions.
+
 ![png](images/random_forest2_gridcv.png)
 
 
 ## XGBoost
+
+* 50 Frauds walk away: 9 clients get angry for stopping transactions.
 
 ![png](images/xgboost_base.png)
 
