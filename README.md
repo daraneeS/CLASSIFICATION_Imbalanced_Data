@@ -42,9 +42,15 @@
 
 ![png](images/card_holder_age.png)
 
+## Models Prediction
+* Total Testing samples are 24,082 transactions
+* True Fraud are 132 Transactions
+* The rest are legit Transactions
+
 
 ## Logistic Regression
 * 132 Frauds walk away: 2 clients get angry for stopping transactions.
+
 ![png](images/logistic_regression_base.png)
 ![png](images/logistic_regression_weight1.png)
 ![png](images/logistic_regression_weight2.png)
