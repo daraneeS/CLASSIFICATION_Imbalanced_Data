@@ -16,7 +16,9 @@
 
 ## Visualization
 
-**Fraud Used Cards Mostly in Shopping_net and Grocery_pos Categories**
+
+### * Fraud Used Cards Mostly in Shopping_net and Grocery_pos Categories
+
 ![png](images/fraud1_category_most_use.png)
 
 ![png](images/fraud0_category_most_use.png)
