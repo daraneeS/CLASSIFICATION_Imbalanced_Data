@@ -1,22 +1,22 @@
 # CLASSIFICATION: IMBALANCED DATA 
 
-# CreditCard Fraud Detection
+# Credit Card Fraud Detection
 
 ## Overview
 
 * **Classification** project on **Imbalanced dataset**
-* Credit card dataset from Kaggle which has about 1.5 million rows
+* Credit card dataset from Kaggle, which has about 1.5 million rows
 * Sampling 10% of the original dataset
 * **Machine Learning Models** 
 * Logistic Regression 
-* Desision Tree Classification
+* Decision Tree Classification
 * Random Forest Classification
 * XGBoost Classification
 
 
 ## Visualization
 
-![png](images/fraud0_category_most_use.png)
+![png](images/fraud1_category_most_use.png)
 
 ![png](images/fraud0_category_most_use.png)
 
@@ -42,26 +42,70 @@
 
 ![png](images/card_holder_age.png)
 
+## Models Prediction
+* Total Testing samples are 24,082 transactions
+* True Fraud are 132 Transactions
+* The rest are legit Transactions
+
 
 ## Logistic Regression
+* 132 Frauds walk away: 2 clients get angry for stopping transactions.
 
 ![png](images/logistic_regression_base.png)
+
+* 37 Frauds walk away: 413 clients get angry for stopping transactions.
+
 ![png](images/logistic_regression_weight1.png)
-![png](images/logistic_regression_weight1.png2)
+
+* 34 Frauds walk away: 1663 clients get angry for stopping transactions.
+
+![png](images/logistic_regression_weight2.png)
+
+* 3 Frauds walk away: 13,934 clients get angry for stopping transactions.
+
 ![png](images/logistic_regression_gridcv.png)
 
+
 ## Decision Tree
+
+* 53 Frauds walk away: 29 clients get angry for stopping transactions.
+
 ![png](images/decision_tree_base.png)
+
+* 54 Frauds walk away: 30 clients get angry for stopping transactions.
+
 ![png](images/decision_tree_balanced.png)
 
+* 13 Frauds walk away: 1939 clients get angry for stopping transactions.
+
+![png](images/decision_tree_balanced_maxdepth.png)
+
+
 ## Random Forest
+
+* 64 Frauds walk away: 6 clients get angry for stopping transactions.
+
+![png](images/random_forest_base.png)
+
+* 67 Frauds walk away: 10 clients get angry for stopping transactions.
+
 ![png](images/random_forest1.png)
+
+* 64 Frauds walk away: 8 clients get angry for stopping transactions.
+
 ![png](images/random_forest2.png)
+
+* 34 Frauds walk away: 66 clients get angry for stopping transactions.
+
 ![png](images/random_forest2_gridcv.png)
 
+
 ## XGBoost
-![png](images/random_forest1.png)
-![png](images/random_forest2.png)
+
+* 50 Frauds walk away: 9 clients get angry for stopping transactions.
+
+![png](images/xgboost_base.png)
+
 
 
 ## Futher Improvement
