@@ -44,19 +44,24 @@
 
 
 ## Logistic Regression
+
 ![png](images/logistic_regression_base.png)
-![png](images/logistic_regression_weight1.png
+![png](images/logistic_regression_weight1.png)
 ![png](images/logistic_regression_weight1.png2)
 ![png](images/logistic_regression_gridcv.png)
 
 ## Decision Tree
-
+![png](images/decision_tree_base.png)
+![png](images/decision_tree_balanced.png)
 
 ## Random Forest
-
+![png](images/random_forest1.png)
+![png](images/random_forest2.png)
+![png](images/random_forest2_gridcv.png)
 
 ## XGBoost
-
+![png](images/random_forest1.png)
+![png](images/random_forest2.png)
 
 
 ## Futher Improvement
