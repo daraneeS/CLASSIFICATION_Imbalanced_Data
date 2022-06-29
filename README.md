@@ -9,7 +9,7 @@
 * Sampling 10% of the original dataset
 * **Machine Learning Models** 
 * Logistic Regression 
-* Desision Tree Classification
+* Decision Tree Classification
 * Random Forest Classification
 * XGBoost Classification
 
