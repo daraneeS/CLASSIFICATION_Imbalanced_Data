@@ -5,7 +5,7 @@
 ## Overview
 
 * **Classification** project on **Imbalanced dataset**
-* Credit card dataset from Kaggle which has about 1.5 million rows
+* Credit card dataset from Kaggle, which has about 1.5 million rows
 * Sampling 10% of the original dataset
 * **Machine Learning Models** 
 * Logistic Regression 
