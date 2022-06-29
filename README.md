@@ -1,6 +1,6 @@
 # CLASSIFICATION: IMBALANCED DATA 
 
-# CreditCard Fraud Detection
+# Credit Card Fraud Detection
 
 ## Overview
 
