@@ -52,8 +52,17 @@
 * 132 Frauds walk away: 2 clients get angry for stopping transactions.
 
 ![png](images/logistic_regression_base.png)
+
+* 37 Frauds walk away: 413 clients get angry for stopping transactions.
+
 ![png](images/logistic_regression_weight1.png)
+
+* 34 Frauds walk away: 1663 clients get angry for stopping transactions.
+
 ![png](images/logistic_regression_weight2.png)
+
+* 3 Frauds walk away: 13,934 clients get angry for stopping transactions.
+
 ![png](images/logistic_regression_gridcv.png)
 
 
