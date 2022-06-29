@@ -16,7 +16,7 @@
 
 ## Visualization
 
-![png](images/fraud0_category_most_use.png)
+![png](images/fraud1_category_most_use.png)
 
 ![png](images/fraud0_category_most_use.png)
 
