@@ -106,7 +106,11 @@
 
 ![png](images/xgboost_base.png)
 
+* 32 Frauds walk away: 40 clients get angry for stopping transactions.
+
 ![png](images/xgboost_weight100.png)
+
+* 31 Frauds walk away: 61 clients get angry for stopping transactions.
 
 ![png](images/xgboost_weight1000.png)
 
