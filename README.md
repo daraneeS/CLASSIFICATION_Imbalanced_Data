@@ -106,7 +106,9 @@
 
 ![png](images/xgboost_base.png)
 
+![png](images/xgboost_weight100.png)
 
+![png](images/xgboost_weight1000.png)
 
 ## Futher Improvement
 - Grid Search CV
